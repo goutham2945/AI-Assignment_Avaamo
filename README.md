@@ -14,7 +14,7 @@ $ npm i request
 $ node task.js
 ```
 
-## Op in console
+when we run the above command, we will see the below output in console
 ```
 [
   {
